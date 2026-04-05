@@ -1,4 +1,4 @@
-# Primer--Proyecto
+# Proyecto 1
 # The Mind
 # Integrantes
 # * Miguelangel Ramírez Londoño
